@@ -24,7 +24,6 @@ This tool accepts a messy CSV file, applies a series of standardization and clea
 
 DataCleaner/
 ├── data_cleaner.py       # Main cleaning script
-├── create_test_data.py   # Generates sample messy CSV for testing
 ├── messy_data.csv        # Sample input file
 ├── cleaned_data.xlsx     # Sample output file
 └── requirements.txt      # Python dependencies
